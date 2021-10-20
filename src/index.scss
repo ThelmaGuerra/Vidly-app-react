@@ -51,6 +51,14 @@ body,
   color: brown;
 }
 
+#nav-username {
+  pointer-events: none;
+  color: brown;
+  font-size: 15px;
+  margin-top: 5px;
+  text-decoration-line: underline;
+}
+
 .clickable {
   cursor: pointer;
 }
